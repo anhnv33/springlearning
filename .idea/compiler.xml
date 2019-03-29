@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="consuming" />
+        <module name="data-access" />
+        <module name="greeter" />
+        <module name="uploadfile" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="consuming" target="1.8" />
+      <module name="data-access" target="1.8" />
+      <module name="greeter" target="1.8" />
+      <module name="uploadfile" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="consuming" options="-parameters" />
+      <module name="data-access" options="-parameters" />
+      <module name="greeter" options="-parameters" />
+      <module name="uploadfile" options="-parameters" />
+    </option>
+  </component>
+</project>

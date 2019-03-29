@@ -3,4 +3,14 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/consuming/pom.xml" />
+        <option value="$PROJECT_DIR$/greeter/pom.xml" />
+        <option value="$PROJECT_DIR$/data-access/pom.xml" />
+        <option value="$PROJECT_DIR$/uploadfile/pom.xml" />
+      </list>
+    </option>
+  </component>
 </project>
