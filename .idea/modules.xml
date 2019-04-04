@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/authenticating-ldap/authenticating-ldap.iml" filepath="$PROJECT_DIR$/authenticating-ldap/authenticating-ldap.iml" />
       <module fileurl="file://$PROJECT_DIR$/consuming/consuming.iml" filepath="$PROJECT_DIR$/consuming/consuming.iml" />
       <module fileurl="file://$PROJECT_DIR$/data-access/data-access.iml" filepath="$PROJECT_DIR$/data-access/data-access.iml" />
       <module fileurl="file://$PROJECT_DIR$/greeter/greeter.iml" filepath="$PROJECT_DIR$/greeter/greeter.iml" />
