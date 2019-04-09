@@ -1,0 +1,5 @@
+spring:
+  rabbitmq:
+    username: jjsnddvh
+    password: HTcgO0qCwf6eOfWqYnQ9B7cSzKMxJ8Nv
+    host: vulture.rmq.cloudamqp.com

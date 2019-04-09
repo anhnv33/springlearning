@@ -10,6 +10,8 @@
         <module name="consuming" />
         <module name="data-access" />
         <module name="greeter" />
+        <module name="messaging-redis" />
+        <module name="rabitmq-demo" />
         <module name="uploadfile" />
       </profile>
     </annotationProcessing>
@@ -18,6 +20,8 @@
       <module name="consuming" target="1.8" />
       <module name="data-access" target="1.8" />
       <module name="greeter" target="1.8" />
+      <module name="messaging-redis" target="1.8" />
+      <module name="rabitmq-demo" target="1.8" />
       <module name="uploadfile" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -27,6 +31,8 @@
       <module name="consuming" options="-parameters" />
       <module name="data-access" options="-parameters" />
       <module name="greeter" options="-parameters" />
+      <module name="messaging-redis" options="-parameters" />
+      <module name="rabitmq-demo" options="-parameters" />
       <module name="uploadfile" options="-parameters" />
     </option>
   </component>

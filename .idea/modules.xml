@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/consuming/consuming.iml" filepath="$PROJECT_DIR$/consuming/consuming.iml" />
       <module fileurl="file://$PROJECT_DIR$/data-access/data-access.iml" filepath="$PROJECT_DIR$/data-access/data-access.iml" />
       <module fileurl="file://$PROJECT_DIR$/greeter/greeter.iml" filepath="$PROJECT_DIR$/greeter/greeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messaging-redis/messaging-redis.iml" filepath="$PROJECT_DIR$/messaging-redis/messaging-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabitmq-demo/rabitmq-demo.iml" filepath="$PROJECT_DIR$/rabitmq-demo/rabitmq-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springlearning.iml" filepath="$PROJECT_DIR$/.idea/springlearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/uploadfile/uploadfile.iml" filepath="$PROJECT_DIR$/uploadfile/uploadfile.iml" />
     </modules>
