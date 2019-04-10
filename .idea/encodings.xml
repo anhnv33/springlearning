@@ -8,5 +8,6 @@
     <file url="file://$PROJECT_DIR$/messaging-redis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rabitmq-demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/uploadfile" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/validate-form-input" charset="UTF-8" />
   </component>
 </project>

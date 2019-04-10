@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/rabitmq-demo/rabitmq-demo.iml" filepath="$PROJECT_DIR$/rabitmq-demo/rabitmq-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springlearning.iml" filepath="$PROJECT_DIR$/.idea/springlearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/uploadfile/uploadfile.iml" filepath="$PROJECT_DIR$/uploadfile/uploadfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validate-form-input/validate-form-input.iml" filepath="$PROJECT_DIR$/validate-form-input/validate-form-input.iml" />
     </modules>
   </component>
 </project>

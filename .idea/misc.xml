@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/authenticating-ldap/pom.xml" />
         <option value="$PROJECT_DIR$/messaging-redis/pom.xml" />
         <option value="$PROJECT_DIR$/rabitmq-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/validate-form-input/pom.xml" />
       </list>
     </option>
   </component>

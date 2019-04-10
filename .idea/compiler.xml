@@ -13,6 +13,7 @@
         <module name="messaging-redis" />
         <module name="rabitmq-demo" />
         <module name="uploadfile" />
+        <module name="validate-form-input" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,6 +24,7 @@
       <module name="messaging-redis" target="1.8" />
       <module name="rabitmq-demo" target="1.8" />
       <module name="uploadfile" target="1.8" />
+      <module name="validate-form-input" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -34,6 +36,7 @@
       <module name="messaging-redis" options="-parameters" />
       <module name="rabitmq-demo" options="-parameters" />
       <module name="uploadfile" options="-parameters" />
+      <module name="validate-form-input" options="-parameters" />
     </option>
   </component>
 </project>
